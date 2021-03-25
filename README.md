@@ -1,4 +1,4 @@
-# Problems - Shapes
+# Shapes
 
 * You can run the program using the instructions in *To Run* below.
 * You can test technical correctness by running the unit tests as in the section *To Test* below.
